@@ -1,0 +1,37 @@
+header {
+    padding: 10px;
+}
+
+header a {
+    color: black;
+    text-decoration: none;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+header li {
+    list-style: none;
+    margin-right: 10px;
+    float: left;
+}
+
+#logo {
+    float: left;
+    margin-left: 10%;
+}
+
+#navbar {
+    float: right;
+    margin-top: 40px;
+    margin-right: 10%;
+}
+
+.container {
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+}
